@@ -9,5 +9,7 @@ Technologies & Tools I Work With: Programming Languages: Python, C++, C
 Tools: Jupyter, Google Colab, Git
 
 Projects: 
+
 Hack-A-Roo: Predicting the credit risk using python. 
+
 Image Recognition System: Distributed CIFAR-100 Image Recognition System using Deep Learning.
