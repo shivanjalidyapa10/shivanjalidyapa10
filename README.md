@@ -4,7 +4,8 @@ I'm a graduate student in Computer Science at the University of Missouri-Kansas 
 
 I’m passionate about working with data, machine learning, and statistical analysis.
 
-Technologies & Tools I Work With: Programming Languages: Python, C++, C 
+Technologies & Tools I Work With: Programming Languages: Python, C++, C
+
 Tools: Jupyter, Google Colab, Git
 
 Projects: 
